@@ -1,0 +1,17 @@
+{
+  "name": "jinxing-admin",
+  "homepage": "https://github.com/myloveGy/jinxing-admin",
+  "authors": [
+    "jinxing.liu <jinxing.liu@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
